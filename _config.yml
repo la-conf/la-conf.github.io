@@ -1,0 +1,10 @@
+# Site settings
+title: La Conf practical info
+email: info@la-conf.org
+description: "La Conf - a conference to share wonderful food with the coders, entrepreneurs and visionaries who build the things you love"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
